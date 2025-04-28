@@ -10,5 +10,8 @@
 /.idea/jarRepositories.xml
 /.idea/migrations.xml
 /.idea/codeStyles/
+/.idea/.name
+/.idea/deploymentTargetSelector.xml
+/.idea/runConfigurations.xml
 
 sign-keystore*
